@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+p {
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 70px auto;
+}
+
+strong.name {
+    color:#26b164;
+}
